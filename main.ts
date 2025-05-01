@@ -1,15 +1,15 @@
 controller.up.onEvent(ControllerButtonEvent.Pressed, function () {
     animation.runImageAnimation(
     mySprite,
-    assets.animation`Walk backward`,
-    100,
+    assets.animation`Cat Up`,
+    200,
     false
     )
 })
 controller.left.onEvent(ControllerButtonEvent.Pressed, function () {
     animation.runImageAnimation(
     mySprite,
-    assets.animation`Walk Left`,
+    assets.animation`Cat Left`,
     100,
     false
     )
@@ -17,7 +17,7 @@ controller.left.onEvent(ControllerButtonEvent.Pressed, function () {
 controller.right.onEvent(ControllerButtonEvent.Pressed, function () {
     animation.runImageAnimation(
     mySprite,
-    assets.animation`Walk Right`,
+    assets.animation`Cat Right`,
     100,
     false
     )
@@ -25,13 +25,13 @@ controller.right.onEvent(ControllerButtonEvent.Pressed, function () {
 controller.down.onEvent(ControllerButtonEvent.Pressed, function () {
     animation.runImageAnimation(
     mySprite,
-    assets.animation`Walk forward`,
+    assets.animation`Cat Idle`,
     100,
     false
     )
 })
 let mySprite: Sprite = null
 scene.setBackgroundImage(assets.image`myImage`)
-mySprite = sprites.create(assets.image`myImage9`, SpriteKind.Player)
+mySprite = sprites.create(assets.image`Cat`, SpriteKind.Player)
 controller.moveSprite(mySprite, 100, 100)
 mySprite.setPosition(77, 55)
