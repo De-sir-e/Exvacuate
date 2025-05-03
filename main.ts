@@ -1,23 +1,23 @@
 controller.up.onEvent(ControllerButtonEvent.Pressed, function () {
     animation.runImageAnimation(
     mySprite,
-    assets.animation`Cat Up`,
-    200,
+    assets.animation`Walk backward`,
+    100,
     false
     )
 })
 controller.left.onEvent(ControllerButtonEvent.Pressed, function () {
     animation.runImageAnimation(
     mySprite,
-    assets.animation`Cat Left`,
-    100,
+    assets.animation`Walk Left`,
+    150,
     false
     )
 })
 controller.right.onEvent(ControllerButtonEvent.Pressed, function () {
     animation.runImageAnimation(
     mySprite,
-    assets.animation`Cat Right`,
+    assets.animation`Walk Right`,
     100,
     false
     )
@@ -25,15 +25,13 @@ controller.right.onEvent(ControllerButtonEvent.Pressed, function () {
 controller.down.onEvent(ControllerButtonEvent.Pressed, function () {
     animation.runImageAnimation(
     mySprite,
-    assets.animation`Cat Idle`,
+    assets.animation`Walk forward`,
     100,
     false
     )
 })
 let mySprite: Sprite = null
-scene.setBackgroundImage(assets.image`myImage`)
-mySprite = sprites.create(assets.image`Cat`, SpriteKind.Player)
-let mySprite3 = sprites.create(assets.image`myImage9`, SpriteKind.Player)
+mySprite = sprites.create(assets.image`myImage9`, SpriteKind.Player)
 let mySprite2 = sprites.create(assets.image`Slime 2`, SpriteKind.Enemy)
 animation.runImageAnimation(
 mySprite2,
