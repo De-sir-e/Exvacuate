@@ -31,7 +31,7 @@ controller.down.onEvent(ControllerButtonEvent.Pressed, function () {
     )
 })
 let myMiner: Sprite = null
-tiles.setCurrentTilemap(tilemap`level 1`)
+tiles.setCurrentTilemap(tilemap`level 1 basic`)
 myMiner = sprites.create(assets.image`Miner`, SpriteKind.Player)
 let mySprite2 = sprites.create(assets.image`Slime 2`, SpriteKind.Enemy)
 scene.cameraFollowSprite(myMiner)
