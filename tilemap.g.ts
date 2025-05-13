@@ -79,7 +79,25 @@ namespace myTiles {
     //% fixedInstance jres blockIdentity=images._tile
     export const tile40 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
+    export const tile41 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile42 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile43 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile44 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile45 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile46 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
     export const tile23 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile49 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile48 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile47 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     export const tile6 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
@@ -215,8 +233,26 @@ namespace myTiles {
             case "tile39":return tile39;
             case "br":
             case "tile40":return tile40;
-            case "myTile20":
+            case "RockTile":
+            case "tile41":return tile41;
+            case "RockTile2":
+            case "tile42":return tile42;
+            case "RockTile0":
+            case "tile43":return tile43;
+            case "RockTile1":
+            case "tile44":return tile44;
+            case "RockTile3":
+            case "tile45":return tile45;
+            case "RockTile4":
+            case "tile46":return tile46;
+            case "Crate":
             case "tile23":return tile23;
+            case "myTile35":
+            case "tile49":return tile49;
+            case "myTile20":
+            case "tile48":return tile48;
+            case "myTile29":
+            case "tile47":return tile47;
             case "myTile3":
             case "tile6":return tile6;
             case "RockTile":

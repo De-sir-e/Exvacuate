@@ -232,14 +232,68 @@
         "tilemapTile": true,
         "displayName": "br"
     },
+    "tile41": {
+        "data": "hwQQABAAAAAAAAAAAAD2AAAAAAAAZokPAAAAAACW+A8AAAAAAPmPCAAAAGCWiIj/AAAAYGmI+P8AAAAAiJj//wAAAImImf//AABgj4iJ+P8AAJaPj4/4/wAAifj//5/4APCP+P+IiIgAlon4/5iIDwCQiP//mPgPYJb//5iZ+A9g+f+PmIj/Dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RockTile"
+    },
+    "tile42": {
+        "data": "hwQQABAAAAAAAIiPiAAAAADwmI//jwAAgP+I+ZmZDw+AmP+fmYmfDwBoafaI+J8IAAAAZoj/hgkAAACZb58JCQAAAACZlgAAAAAAAAAAAAAAAAAAAPAPAAAAAAAA+Q8AAAAAAACJDwAAAAAAYJkIAAAAAACAlgkAAAAAAABoCQAAAAAAAIAPAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RockTile2"
+    },
+    "tile43": {
+        "data": "hwQQABAAAABg+f+PmIj/D2CW//+YmfgPAJCI//+Y+A8Alon4/5iIDwDwj/j/iIiIAACJ+P//n/gAAJaPj4/4/wAAYI+Iifj/AAAAiYiZ//8AAAAAiJj//wAAAGBpiPj/AAAAYJaIiP8AAAAAAPmPCAAAAAAAlvgPAAAAAABmiQ8AAAAAAAD2AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RockTile0"
+    },
+    "tile44": {
+        "data": "hwQQABAAAAAAAAAAAIAPAAAAAAAAaAkAAAAAAICWCQAAAAAAYJkIAAAAAAAAiQ8AAAAAAAD5DwAAAAAAAPAPAAAAAAAAAAAAAAAAAJmWAAAAAACZb58JCQAAAGaI/4YJAGhp9oj4nwiAmP+fmYmfD4D/iPmZmQ8PAPCYj/+PAAAAAIiPiAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RockTile1"
+    },
+    "tile45": {
+        "data": "hwQQABAAAAAAAAAAAIj/DwBg+f+PmPgPAGCW//+Y+A8AAJCI///4AAAAlon4/4gIAADwj/j/iQ8AAJaJ+P//DwAAYI+Iifj/AAAAiYiZ//8AAAAAiJj//wAAAGBpiPgPAAAAYJaW+A8AAAAAAGb5AAAAAAAAAPYAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RockTile3"
+    },
+    "tile46": {
+        "data": "hwQQABAAAAAAAAAAAADw/wAAAAAAgIj/AAAAj4j/j/8AAICImP+J+AAAmYlomYn4AACZmYhoifgAAACW/2iG/wAAAGb/j5n/AAAAYIn/mPYAAAAAj/+IiAAAAACW+I//AAAAAACImf8AAAAAAI+Y/wAAAAAAZoj4AAAAAAAA+YgAAAAAAABm+A==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "RockTile4"
+    },
     "tile23": {
-        "data": "hwQQABAAAACq6u7u7u7urqpOTkRERESu6sTMzMzMzKzqzMzMzMzMrMrMTkRERESuykxORERERK7qRE5ERERErupETkRERESu6kRORERERK7qRE5ERERErspMTkRERESuysxORERERK7qzMzMzMzMrOrEzMzMzMysqk5ORERERK6q6u7u7u7urg==",
+        "data": "hwQQABAAAACqOjMzMzMzo6ojIyIiIiKjOsLMzMzMzKw6zMzMzMzMrMrMIyIiIiKjyiwjIiIiIqM6IkNCQkJCozpCIyQkJCSuOiROQkRERK46QiNERERErspMTkRERESuysxORERERK46zMzMzMzMrOrEzMzMzMysqk5ORERERK6q6u7u7u7urg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Crate"
+    },
+    "tile49": {
+        "data": "hwQQABAAAADMDCICZgYAAMwMIgJmBgAAzAwiAmYGAACqCkQEiAgAAKoKRASICAAAqgpEBIgIAAC7C7sLmQkAALsLuwuZCQAAuwu7C5kJAAAzA6oKEQEAADMDqgoRAQAAMwOqChEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile35"
+    },
+    "tile48": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMzMzAwAwAAAAAAADADMAAAAAAAMAMwAAAAAAAwAzAAAAAAADADMAAAAAAAMAMwAAAAAAAwAzAAAAAAADADAAAAAAAAMAADMzMzMzAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "myTile20"
     },
+    "tile47": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANTMQEREwAFAA7gEAAOEABQDuAAAA4AAFAOUAQmbmAA4AVQAAAFAA4ABVAQAAUQAA7l4QERFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile29"
+    },
     "tile6": {
-        "data": "hwQQABAAAACqqqrM/P+vqqqqyuz87v7/qqrM7vzu7v6qquzu/O7u/qqq7u787u7+qqru7vzu7v6qqu7u/O7u/qqqzMzc3e7+qqrMzNzd7v6qqu7u/O7u/qqq7u787u7+qqru7vzu7v6qquzu/O7u/qqqzO787u7+qqrK7Pzu/v+qqqrM/P+vqg==",
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "myTile3"
