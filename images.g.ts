@@ -868,25 +868,6 @@ f 9 5 9 f e e a d d a e e f . .
 . . . . . . . . . . 5 5 1 . . . 
 . . . . . . . . . . . . . . . . 
 `;
-            case "image38":
-            case "myImage5":return img`
-. . . . 5 5 1 1 1 1 1 . . . . . 
-. . . 5 5 1 1 1 1 1 1 1 1 5 . . 
-. . 5 1 1 1 1 1 1 1 1 1 1 5 . . 
-. 5 1 5 5 5 d d d 1 1 1 1 e 1 . 
-. 1 5 e e 5 5 d d d 1 1 1 3 e 1 
-5 5 d e 5 5 d d d d 1 1 1 3 e 1 
-5 d 5 5 5 5 e 5 5 5 d d 1 3 e 1 
-1 5 5 1 3 3 3 e e e 5 d 1 1 d 1 
-1 5 5 d 3 3 3 e e e 5 d d 1 d 1 
-1 5 5 d 3 3 3 e e e 5 5 d e d . 
-1 e 5 d d d 3 e e e 5 5 3 3 d 1 
-1 1 e d d d 3 e e e 5 5 5 3 1 1 
-. 5 1 d d d 5 5 5 5 5 1 5 d 1 1 
-. . . d 5 5 d . . . 1 1 5 5 d . 
-. . . . . . . . . . . 1 5 d . . 
-. . . . . . . . . . . . . . . . 
-`;
             case "image39":
             case "myImage4":return img`
 . . . . . . . . . . . . . . . . 
@@ -1578,6 +1559,25 @@ fffffff99944444444444444444aaeeeeeee44444fffffffeeeeaaaaaaaaaaa222eeeeeeeeee4444
 ffff9444444ffff99996688feeef3333333a3aaaaaaaaeaaa444444444444444fffeaaaaeeeef44444444444444444deee444444468888ff9999988ffffffffff888fff8899888888888888fffffffff
 ffff994444ffffffff9999ffee444ff3333aa3aa3aaeaaaaaaae444444444444444ffeeeeffff444444444444444444444444444ff8888f8999988fffffffffffffff8888888888888888fffffffffff
 fffff9444ffffffffffffffff444444433aaa3aaaaaaaaaaaaaaa4444444444444444eeee4444444444444444444444444444444ff888f88888888fffffffffffffff8ffffffffffffffffffffffffff
+`;
+            case "image38":
+            case "Skull":return img`
+. . . . 5 5 1 1 1 1 1 . . . . . 
+. . . 5 5 1 1 1 1 1 1 1 1 5 . . 
+. . 5 1 1 1 1 1 1 1 1 1 1 5 . . 
+. 5 1 5 5 5 d d d 1 1 1 1 e 1 . 
+. 1 5 e e 5 5 d d d 1 1 1 3 e 1 
+5 5 d e 5 5 d d d d 1 1 1 3 e 1 
+5 d 5 5 5 5 e 5 5 5 d d 1 3 e 1 
+1 5 5 1 3 3 3 e e e 5 d 1 1 d 1 
+1 5 5 d 3 3 3 e e e 5 d d 1 d 1 
+1 5 5 d 3 3 3 e e e 5 5 d e d . 
+1 e 5 d d d 3 e e e 5 5 3 3 d 1 
+1 1 e d d d 3 e e e 5 5 5 3 1 1 
+. 5 1 d d d 5 5 5 5 5 1 5 d 1 1 
+. . . d 5 5 d . . . 1 1 5 5 d . 
+. . . . . . . . . . . 1 5 d . . 
+. . . . . . . . . . . . . . . . 
 `;
         }
         return null;
