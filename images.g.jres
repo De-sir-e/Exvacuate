@@ -319,6 +319,31 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Skull"
     },
+    "image65": {
+        "data": "hwQgACAAAAAAAACQmZ6ZmeOZmZnpmZmZAAAAkJnp7jOeme7unpmZmQAAAPkAAJn5AACQmQ8AAPkAAAD5AACZ+QAAkJkPAAD5AACQmZmZmZmZmZmZmZmZ/gAAkA8AAJn5AACQmQ8AAPMAAPkAAACQDwAAAPkAAADzAJCZmZmZmZmZ4zPumZ7p8wCQDwAAAJAPAAAA+QAAAP4A+QAAAACQDwAAAPkAAAD5AOk+Oenp6e7jmZ6ZmZmZ/pAPAAAAAJAPAAAA+QAAAPmQDwAAAACQDwAAAPkAAAD5kJmZmZmZmZmZmZmZmZmZ+ZAPAAAAAOAPAAAA+QAAAPmQ6emTmZmZmZmZmZmZmZn5kJmemZmZmZmZmZmZmZmZ+ZAPAAAAAJAPAAAA+QAAAPmQmZmZmZmZmZmZmZmZmZn5kA8AAAAAMA8AAAD5AAAA+ZAPAAAAAJAPAAAA+QAAAPkAmZmZmZmZmZmZmZmZmZn+APkAAAAAMA8AAAD5AAAA/gCQDwAAAJAPAAAA+QAAAP4AkJmZmZmZmZmZmZmZmZn+AAD5AAAA4A8AAAD5AAAA+QAAkA+Q+eAPAAAA+QAAAP4AAJCZmZmZmZmZmZmZmZn+AAAA+ZD5kA8AAAD5AAAA+QAAAPng+ZAPAAAA+QAAAPkAAACQmZmZPpmZmZmZmZmZAAAAkJmZmZ6ZmZmZmZmZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Full Gate"
+    },
+    "image66": {
+        "data": "hwQQABAAAAAAAACQmZ6ZmQAAAJCZ6e4zAAAA+QAAmfkAAAD5AACZ+QAAkJmZmZmZAACQDwAAmfkAAPkAAACQDwCQmZmZmZmZAJAPAAAAkA8A+QAAAACQDwDpPjnp6enukA8AAAAAkA+QDwAAAACQD5CZmZmZmZmZkA8AAAAA4A+Q6emTmZmZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Gate Top Left"
+    },
+    "image67": {
+        "data": "hwQQABAAAACQmZ6ZmZmZmZAPAAAAAJAPkJmZmZmZmZmQDwAAAAAwD5APAAAAAJAPAJmZmZmZmZkA+QAAAAAwDwCQDwAAAJAPAJCZmZmZmZkAAPkAAADgDwAAkA+Q+eAPAACQmZmZmZkAAAD5kPmQDwAAAPng+ZAPAAAAkJmZmT4AAACQmZmZng==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Gate Top Right"
+    },
+    "image68": {
+        "data": "hwQQABAAAADjmZmZ6ZmZmZ6Z7u6emZmZAACQmQ8AAPkAAJCZDwAA+ZmZmZmZmZn+AACQmQ8AAPMAAAD5AAAA85njM+6ZnunzAAAA+QAAAP4AAAD5AAAA+eOZnpmZmZn+AAAA+QAAAPkAAAD5AAAA+ZmZmZmZmZn5AAAA+QAAAPmZmZmZmZmZ+Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Gate Bottom Left"
+    },
+    "image69": {
+        "data": "hwQQABAAAACZmZmZmZmZ+QAAAPkAAAD5mZmZmZmZmfkAAAD5AAAA+QAAAPkAAAD5mZmZmZmZmf4AAAD5AAAA/gAAAPkAAAD+mZmZmZmZmf4AAAD5AAAA+QAAAPkAAAD+mZmZmZmZmf4AAAD5AAAA+QAAAPkAAAD5mZmZmZmZmZmZmZmZmZmZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Gate Bottom Right"
+    },
     "anim8": {
         "namespace": "myAnimations",
         "id": "anim8",

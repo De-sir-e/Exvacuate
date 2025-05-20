@@ -3,8 +3,6 @@ namespace myTiles {
     //% fixedInstance jres blockIdentity=images._tile
     export const transparency16 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    export const tile49 = image.ofBuffer(hex``);
-    //% fixedInstance jres blockIdentity=images._tile
     export const tile6 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     export const tile28 = image.ofBuffer(hex``);
@@ -127,9 +125,11 @@ namespace myTiles {
     //% fixedInstance jres blockIdentity=images._tile
     export const tile64 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    export const tile67 = image.ofBuffer(hex``);
+    export const tile2 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    export const tile66 = image.ofBuffer(hex``);
+    export const tile3 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile67 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     export const tile65 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
@@ -141,11 +141,11 @@ namespace myTiles {
     //% fixedInstance jres blockIdentity=images._tile
     export const tile72 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
-    export const tile2 = image.ofBuffer(hex``);
-    //% fixedInstance jres blockIdentity=images._tile
-    export const tile3 = image.ofBuffer(hex``);
+    export const tile66 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._tile
     export const tile69 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=images._tile
+    export const tile49 = image.ofBuffer(hex``);
 
     helpers._registerFactory("tilemap", function(name: string) {
         switch(helpers.stringTrim(name)) {
@@ -249,8 +249,6 @@ namespace myTiles {
     helpers._registerFactory("tile", function(name: string) {
         switch(helpers.stringTrim(name)) {
             case "transparency16":return transparency16;
-            case "myTile35":
-            case "tile49":return tile49;
             case "ice stone":
             case "tile6":return tile6;
             case "Left Wall":
@@ -373,26 +371,28 @@ namespace myTiles {
             case "tile63":return tile63;
             case "RockTile2":
             case "tile64":return tile64;
-            case "RockTile7":
-            case "tile67":return tile67;
-            case "RockTile6":
-            case "tile66":return tile66;
-            case "RockTile5":
-            case "tile65":return tile65;
-            case "RockTile8":
-            case "tile68":return tile68;
-            case "RockTile10":
-            case "tile70":return tile70;
-            case "RockTile11":
-            case "tile71":return tile71;
-            case "RockTile12":
-            case "tile72":return tile72;
             case "RockTile Transition":
             case "tile2":return tile2;
             case "Level01transition":
             case "tile3":return tile3;
-            case "RockTile9":
+            case "Rail bottom Horizontal":
+            case "tile67":return tile67;
+            case "Rail Left Vertical":
+            case "tile65":return tile65;
+            case "Rail Bottom Left corner":
+            case "tile68":return tile68;
+            case "Rail Bottom Right Corner":
+            case "tile70":return tile70;
+            case "Rail Right Vertical":
+            case "tile71":return tile71;
+            case "Rail Top Left Corner":
+            case "tile72":return tile72;
+            case "Rail Top Horizontal":
+            case "tile66":return tile66;
+            case "RockTileIce Transition":
             case "tile69":return tile69;
+            case "Color Palette":
+            case "tile49":return tile49;
         }
         return null;
     })
